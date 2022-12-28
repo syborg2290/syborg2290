@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm kasun thaksala gamage</h1>
 <h3 align="center"><div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <div id="badges"> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div> <h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1> </div> <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div></h3>
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasun-gamage-a00981178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasun-gamage-a00981178" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kasun-gamage-a00981178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasun-gamage-a00981178" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
