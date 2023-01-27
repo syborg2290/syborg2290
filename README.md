@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syborg2290" alt="syborg2290" /></a> </p>
 
-- 🌱 I’m currently learning **More about web 3.0, Hyperledger Fabric and Advanced deep learning**
+- 🌱 I’m currently learning **More about web 3.0 and Advanced deep learning**
 
 - 📫 How to reach me **kasun.thaksala@gmail.com**
 
